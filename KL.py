@@ -91,7 +91,6 @@ if resume:
 
 print(model)
 
-# TODO: Move stuff to cuda
 import torch.backends.cudnn as cudnn
 
 # for alexnet and vgg
